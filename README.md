@@ -1,7 +1,7 @@
 # mlh-fellowship
 
 ## Overview 
-This is part of a whole startup credit system I have done. The codes showed below I think maybe representative and they are the function part of the system, which is used for manager to manage the records: search data from the database and through different click events to act, search and check the record. 
+This is part of a whole startup credit system I have done. The codes showed below I think maybe representative and they are the function part of the system(since the whole system may seems too big, too bulky and redundant ), which is used for manager to manage the records: search data from the database and through different click events to act, search and check the record. 
 
   This repository contains three parts:
 - **html**
